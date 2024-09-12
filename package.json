@@ -1,0 +1,21 @@
+{
+  "name": "backend-challenge",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeroham sanchez",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.10.0",
+    "eslint": "^9.10.0",
+    "globals": "^15.9.0",
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
